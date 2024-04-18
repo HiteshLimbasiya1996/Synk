@@ -1,0 +1,206 @@
+@media (min-width: 577px) and (max-width: 768px) {
+
+    .nav-call,
+    .nav-btn button,
+    .nav-line {
+        display: none !important;
+    }
+
+    .left-banner h1 {
+        font-size: 45px !important;
+    }
+
+    .left-banner h5 {
+        font-size: 18px !important;
+        padding-right: 150px !important;
+        line-height: 30px;
+    }
+
+    .how-left a {
+        margin-top: 40px !important;
+    }
+
+    .how {
+        position: relative;
+        padding: 20px !important;
+    }
+
+    .how-sub-img img {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        height: 100px !important;
+    }
+
+    .how-sub {
+        padding-right: 15px !important;
+        gap: 0px !important;
+    }
+
+    /* left end */
+    /* right */
+    .sub-inner {
+        position: relative;
+    }
+
+    .sub-inner img {
+        height: 40px !important;
+    }
+
+    .line i {
+        position: absolute;
+        left: -10px !important;
+        top: 40%;
+    }
+
+    .line img {
+        position: absolute !important;
+        width: 168px !important;
+        height: 1px !important;
+        top: 50% !important;
+    }
+
+    .line-4 img {
+        position: absolute !important;
+        left: 50px !important;
+        width: 170px !important;
+        height: 122px !important;
+        top: 50% !important;
+    }
+
+    .line-5 img {
+        position: absolute !important;
+        left: 0 !important;
+        margin-left: -40px;
+        width: 180px !important;
+        height: 122px !important;
+        top: 50% !important;
+    }
+
+    .line-2 i {
+        position: absolute;
+        right: -10px !important;
+        top: 40%;
+        font-size: 12px !important;
+        padding: 3px;
+        border-radius: 50%;
+    }
+
+    /* timeline start */
+    .timeline-section {
+        padding: 0px !important;
+    }
+   .line-ln{
+    justify-content: end !important;
+    margin-left: 70px !important;
+   }
+      .timeline-sub {
+        position: relative !important;
+        background-color: #f3f6fd !important;
+        border-radius: 10px !important;
+        padding: 25px;
+        margin: 0 !important;
+    }
+    .timeline-images img {
+        position: absolute;
+        left: 24px !important;
+        top: 35px !important;
+        height: 105px;
+    }
+    .timeline-images {
+        position: absolute;
+        left: -90px !important;
+        top: 45px !important;
+    }
+    .timeline-images-2 img {
+        position: absolute;
+        left: 22px !important;
+        top: 35px !important;
+        height: 105px;
+    }
+    .timeline-images-2 {
+        position: absolute;
+        left: -90px !important;
+        top: 50px !important;
+    }
+    .timeline-section {
+        padding: 50px 20px !important;
+    }
+    /* timeline end */
+
+    .product-section {
+        padding: 40px 0px !important;
+        max-height: 1000px !important;
+    }
+
+    .product-item {
+        margin-top: 20px !important;
+    }
+
+   
+
+    .carousel-inner {
+        height: 500px;
+    }
+
+    .project-section {
+        padding: 40px 20px !important;
+    }
+
+    .project-left {
+        padding-left: 0px !important;
+    }
+
+    .blue-snap {
+        padding: 0px 20 !important;
+        margin-bottom: 20px;
+    }
+
+    .my-icon {
+        display: flex !important;
+        padding: 0px !important;
+        width: 100% !important;
+    }
+
+    .blue-icon {
+        margin-left: -20px !important;
+    }
+
+    .feature-section {
+        background: #1c1c1c !important;
+        padding: 50px 0px !important;
+    }
+
+    .feature-right {
+        padding: 30px 0px !important;
+    }
+
+    .contact-center {
+        margin: 20px 0px !important;
+    }
+
+    .footer-btm {
+        margin: 0;
+        margin-bottom: 40px !important;
+
+    }
+
+    #fb {
+        margin-top: 0px !important;
+        margin-left: 150px;
+    }
+
+    .right-footer {
+        padding: 30px 0px !important;
+    }
+
+    .my-line-2,
+    .my-line-3 {
+        display: none !important;
+    }
+
+    .call {
+        display: flex;
+        padding-left: 10px !important;
+    }
+}
